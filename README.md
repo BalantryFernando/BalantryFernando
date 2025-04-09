@@ -2,9 +2,7 @@
   <img src="https://s0.smartresize.com/wallpaper/770/843/HD-wallpaper-anime-berserk-guts-berserk-griffith-berserk.jpg" height="400" alt="Berserk Image" />
 </div>
 
-# [Balantry]
-
-[![La Marca del Sacrificio](URL_DE_TU_IMAGEN_DE_LA_MARCA)](https://github.com/TuUsuario)
+# Balantry
 
 > *"Algo que has perdido nunca volverá..."* 
 

@@ -38,7 +38,7 @@ Como un viajero en constante aprendizaje, mis habilidades se encuentran en conti
 
 >   *"Si estás solo, anhelarás compañía. Si estás con otros, anhelarás estar solo. Así es el ser humano."*
 
-Al igual que Guts, sigo avanzando. Mi mayor motivación es convertirme en un experto en ciberseguridad, capaz de proteger sistemas y datos de las sombras. Estoy plenamente comprometido con mi aprendizaje y listo para enfrentar cualquier adversidad que se cruce en mi camino.
+Mi mayor motivación es convertirme en un experto en ciberseguridad, capaz de proteger sistemas y datos de toda la malicia existente. Estoy plenamente comprometido con mi aprendizaje y listo para enfrentar cualquier adversidad que se cruce en mi camino.
 
 ### Próximos Pasos
 
@@ -46,11 +46,3 @@ Continuaré dedicándome al aprendizaje y perfeccionando mis habilidades en toda
 
 ---
 
-**Notas:**
-
-* He intentado mantener la esencia de Berserk utilizando metáforas y citas.
-* He organizado tus habilidades en categorías para facilitar su lectura.
-* He añadido una sección de "Mi Impulso" para reflejar tu motivación.
-* Puedes personalizar aún más este README con tus proyectos específicos, enlaces e información de contacto.
-
-Recuerda reemplazar los marcadores entre corchetes con tus enlaces y detalles reales. ¡Dime si quieres alguna otra modificación o mejora!

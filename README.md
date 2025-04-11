@@ -6,15 +6,15 @@
 
 > *"Algo que has perdido nunca volverá..."*
 
-### Sobre Mí
+### 👤 Sobre Mí
 
-Como el Guerrero Negro, me enfrento a cada nuevo proyecto o desafío con una determinación inquebrantable. Soy un estudiante de ASIR con una profunda pasión por adquirir nuevas habilidades, especialmente en Python y Ciberseguridad, con el objetivo de superar mis propios límites y forjar mi camino hacia un mundo digital más seguro. Actualmente, estoy enfocado en obtener las certificaciones Cisco Certified Support Technician (CCST) y el programa IBM SkillsBuild en Python Avanzado, Django y Flask.
+Como el Guerrero Negro ⚔️, me enfrento a cada nuevo proyecto o desafío con una determinación inquebrantable. Soy un estudiante de ASIR 😊 con una profunda pasión por adquirir nuevas habilidades, especialmente en Python 🐍 y Ciberseguridad 🛡️, con el objetivo de superar mis propios límites y forjar mi camino hacia un mundo digital más seguro. Actualmente, estoy enfocado en obtener las certificaciones Cisco Certified Support Technician (CCST) y el programa IBM SkillsBuild en Python Avanzado, Django y Flask.
 
-### Proyectos Destacados
+### 🛠️ Proyectos Destacados
 
-* **Documentando mi camino:** Una creación nacida de la oscuridad, como la Espada Mata Dragones, forjada para superar desafíos complejos. [Documento en Notion cada nuevo aprendizaje, ya sea en Cisco Learning, ASIR o Python, entre otras áreas].
+* **[Documentando mi camino]:** Una creación nacida de la oscuridad, como la Espada Mata Dragones, forjada para superar desafíos complejos. [Documento en Notion cada nuevo aprendizaje, ya sea en Cisco Learning, ASIR o Python, entre otras áreas].
 
-### Mis Habilidades (En Desarrollo)
+### 💻 Mis Habilidades (En Desarrollo)
 
 Como un viajero en constante aprendizaje, mis habilidades se encuentran en continua evolución. Aquí tienes un vistazo a las áreas que estoy explorando:
 
@@ -22,27 +22,27 @@ Como un viajero en constante aprendizaje, mis habilidades se encuentran en conti
     * SC-900 (Fundamentos de Seguridad, Cumplimiento e Identidad de Microsoft)
     * Preparándome para Cisco CCST
 * **Programación:**
-    * Python
+    * Python 🐍
     * Django
     * Flask
 * **Administración de Sistemas (ASIR):**
-    * MySQL
-    * PostgreSQL
-    * Packet Tracer
-    * Implementación de Sistemas Operativos (Linux, Windows)
+    * MySQL 🗄️
+    * PostgreSQL 🗄️
+    * Packet Tracer 🌐
+    * Implementación de Sistemas Operativos (Linux 🐧, Windows 窓)
     * Administración de Servidores Locales
     * Modelado Entidad-Relación
     * Hardware
 
-### Mi Impulso
+### 🔥 Mi Impulso
 
->   *"Si estás solo, anhelarás compañía. Si estás con otros, anhelarás estar solo. Así es el ser humano."*
+>   *"Si estás solo, anhelarás compañía. Si estás con otros, anhelarás estar solo. Así es el ser humano."* 💪
 
-Mi mayor motivación es convertirme en un experto en ciberseguridad, capaz de proteger sistemas y datos de toda la malicia existente. Estoy plenamente comprometido con mi aprendizaje y listo para enfrentar cualquier adversidad que se cruce en mi camino.
+Mi mayor motivación es convertirme en un experto en ciberseguridad, capaz de proteger sistemas de toda la malicia del mundo. Estoy plenamente comprometido con mi aprendizaje y listo para enfrentar cualquier adversidad que se cruce en mi camino. ✨
 
-### Próximos Pasos
+### 🚀 Próximos Pasos
 
-Continuaré dedicándome al aprendizaje y perfeccionando mis habilidades en todas las áreas mencionadas. Mi meta es aplicar mis conocimientos para desarrollar soluciones seguras y eficientes.
+Continuaré dedicándome al aprendizaje y perfeccionando mis habilidades en todas las áreas mencionadas. Mi meta es aplicar mis conocimientos para desarrollar soluciones seguras y eficientes. 🔭
 
 ---
 

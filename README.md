@@ -12,7 +12,7 @@ Como el Guerrero Negro ⚔️, me enfrento a cada nuevo proyecto o desafío con 
 
 ### 🛠️ Proyectos Destacados
 
-* **[Documentando mi camino]:** Una creación nacida de la oscuridad, como la Espada Mata Dragones, forjada para superar desafíos complejos. [Documento en Notion cada nuevo aprendizaje, ya sea en Cisco Learning, ASIR o Python, entre otras áreas].
+* **Documentando mi camino:** Una creación nacida de la oscuridad, como la Espada Mata Dragones, forjada para superar desafíos complejos. [Documento en Notion cada nuevo aprendizaje, ya sea en Cisco Learning, ASIR o Python, entre otras áreas].
 
 ### 💻 Mis Habilidades (En Desarrollo)
 

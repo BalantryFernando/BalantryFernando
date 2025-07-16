@@ -3,7 +3,7 @@
 </p>
 
 
-# 👋 ¡Hola! Soy Fernando Carrasco
+# 👋 Buenas, soy Fernando Carrasco
 ## 👨‍💻 Sobre mí
 
 👨‍💻 Estudiante de **Ciberseguridad** y **Administración de Sistemas (ASIR)**.

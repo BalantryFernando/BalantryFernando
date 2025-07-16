@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="[[https://s0.smartresize.com/wallpaper/770/843/HD-wallpaper-anime-berserk-guts-berserk-griffith-berserk.jpg](https://github.com/BalantryFernando/BalantryFernando/blob/main/banner54.png?raw=true)](https://github.com/BalantryFernando/BalantryFernando/blob/main/banner54.jpg?raw=true)" height="400" alt="Imagen de Berserk" />
-</div>
+![Mi Banner Profesional](https://github.com/BalantryFernando/BalantryFernando/blob/main/banner54.jpg?raw=true)
 
 # Balantry
 

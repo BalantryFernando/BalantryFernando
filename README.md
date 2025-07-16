@@ -1,5 +1,6 @@
-![Mi Banner Profesional](https://github.com/BalantryFernando/BalantryFernando/blob/main/banner54.jpg?raw=true)
-
+<p align="center">
+  <img src="https://github.com/BalantryFernando/BalantryFernando/blob/main/banner54.jpg?raw=true" alt="Mi Banner Profesional" width="85%">
+</p>
 # Balantry
 
 > *"Algo que has perdido nunca volverá..."*

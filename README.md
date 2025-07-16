@@ -1,47 +1,77 @@
 <p align="center">
   <img src="https://github.com/BalantryFernando/BalantryFernando/blob/main/banner54.jpg?raw=true" alt="Mi Banner Profesional" width="1200">
 </p>
-# Balantry
+# 👋 ¡Hola! Soy Fernando Carrasco
 
-> *"Algo que has perdido nunca volverá..."*
+<p align="center">
+  <img src="https://github.com/BalantryFernando/BalantryFernando/blob/main/banner54.jpg?raw=true" alt="Banner Profesional de Fernando Carrasco" width="85%">
+</p>
 
-### 👤 Sobre Mí
+## 👨‍💻 Sobre mí
 
-Hoy en dia me enfrento a cada nuevo proyecto o desafío con una determinación inquebrantable. Soy un estudiante de ASIR 😊 con una profunda pasión por adquirir nuevas habilidades, especialmente en Python 🐍 y Ciberseguridad 🛡️, con el objetivo de superar mis propios límites y forjar mi camino hacia un mundo digital más seguro. Actualmente, estoy enfocado en obtener las certificaciones Cisco Certified Support Technician (CCST) y el programa IBM SkillsBuild en Python Avanzado, Django y Flask.
+👨‍💻 Estudiante de **Ciberseguridad** y **Administración de Sistemas (ASIR)**.
 
-### 🛠️ Proyectos Destacados
+🎯 Apasionado por la defensa de redes (Blue Team) y la seguridad ofensiva (Red Team).
 
-* **Documentando mi camino:** Busco superar superar desafíos complejos. [Documento en Notion cada nuevo aprendizaje, ya sea en Cisco Learning, ASIR o Python, entre otras áreas].
+🚀 Enfocado en aplicar la disciplina y la resolución de problemas para proteger infraestructuras tecnológicas.
 
-### 💻 Mis Habilidades (En Desarrollo)
-
-Como un viajero en constante aprendizaje, mis habilidades se encuentran en continua evolución. Aquí tienes un vistazo a las áreas que estoy explorando:
-
-* **Ciberseguridad:**
-    * SC-900 (Fundamentos de Seguridad, Cumplimiento e Identidad de Microsoft)
-    * Preparándome para Cisco CCST
-* **Programación:**
-    * Python 🐍
-    * Django
-    * Flask
-* **Administración de Sistemas (ASIR):**
-    * MySQL 🗄️
-    * PostgreSQL 🗄️
-    * Packet Tracer 🌐
-    * Implementación de Sistemas Operativos (Linux 🐧, Windows 窓)
-    * Administración de Servidores Locales
-    * Modelado Entidad-Relación
-    * Hardware
-
-### 🔥 Mi Impulso
-
->   *"Si estás solo, anhelarás compañía. Si estás con otros, anhelarás estar solo. Así es el ser humano."* 
-
-Mi mayor motivación es convertirme en un experto en ciberseguridad, capaz de proteger sistemas de toda la malicia del mundo. Estoy plenamente comprometido con mi aprendizaje y listo para enfrentar cualquier adversidad que se cruce en mi camino. ✨
-
-### 🚀 Próximos Pasos
-
-Continuaré dedicándome al aprendizaje y perfeccionando mis habilidades en todas las áreas mencionadas. Mi meta es aplicar mis conocimientos para desarrollar soluciones seguras y eficientes. 🔭
+🔧 Convirtiendo la teoría en práctica a través de la formación continua y la experiencia en entornos reales.
 
 ---
 
+## 💡 Tecnologías y Herramientas
+
+* **Lenguajes y Frameworks:**
+    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+    ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+    ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+* **Sistemas y Redes:**
+    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+    ![GNS3](https://img.shields.io/badge/GNS3-4173A5?style=for-the-badge)
+    ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+* **Ciberseguridad y Herramientas:**
+    ![Blue Team](https://img.shields.io/badge/Blue_Team-00529B?style=for-the-badge&logo=shieldsdotio&logoColor=white)
+    ![Red Team](https://img.shields.io/badge/Red_Team-B22222?style=for-the-badge&logo=shieldsdotio&logoColor=white)
+    ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+    ![OSINT](https://img.shields.io/badge/OSINT-5D3FD3?style=for-the-badge)
+
+---
+
+## 🎓 Formación y Certificaciones
+
+- **Máster en Ciberseguridad**
+  *En curso (2024 – 2026)*
+
+- **Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR)**
+  *En curso (2024 – 2026)*
+
+- **Certificaciones destacadas:**
+  -  IBM: **Backend Development (Python, Flask, Django)**
+  - Cisco: **CCST Cybersecurity**
+  - Microsoft: **Security, Compliance, and Identity Fundamentals**
+
+---
+
+## 💼 Experiencia Reciente
+
+**Desarrollador Web Junior (Prácticas)**
+- Experiencia en un entorno de desarrollo profesional, contribuyendo a la actualización y mantenimiento de aplicaciones web.
+- **Tecnologías clave:** Git, Bootstrap, JavaScript.
+
+---
+
+## 📩 Contacto
+
+<p align="center">
+  <a href="mailto:balantrym@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/balantrym">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/users/fernando-carrasco.40e2619e">
+    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
+  </a>
+</p>

@@ -65,10 +65,10 @@
   <a href="mailto:balantrym@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/balantrym">
+  <a href="linkedin.com/in/balantrym">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.credly.com/users/fernando-carrasco.40e2619e">
+  <a href="www.credly.com/users/balantry">
     <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
   </a>
 </p>

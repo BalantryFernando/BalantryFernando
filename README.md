@@ -6,6 +6,10 @@
 # 👋 Buenas, soy Fernando Carrasco
 ## 👨‍💻 Sobre mí
 
+<p align="right">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRkdzFlanBlZ3pqcmh6aWMzMzlnYmVyc2V1dGxwczRqYXFtOHVtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GbRYCNaqC37LIxFC1N/giphy.gif" alt="Calaveras GIF" width="250">
+</p>
+
 👨‍💻 Estudiante de **Ciberseguridad** y **Administración de Sistemas (ASIR)**.
 
 🎯 Apasionado por la defensa de redes (Blue Team) y la seguridad ofensiva (Red Team).
@@ -14,7 +18,6 @@
 
 🔧 Convirtiendo la teoría en práctica a través de la formación continua y la experiencia en entornos reales.
 
----
 
 ## 💡 Tecnologías y Herramientas
 

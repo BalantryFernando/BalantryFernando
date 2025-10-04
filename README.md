@@ -6,18 +6,17 @@
 # 👋 Buenas, soy Fernando Carrasco
 ## 👨‍💻 Sobre mí
 
-<p align="right">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRkdzFlanBlZ3pqcmh6aWMzMzlnYmVyc2V1dGxwczRqYXFtOHVtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GbRYCNaqC37LIxFC1N/giphy.gif" alt="Calaveras GIF" width="250">
+<p>
+  <img src="https://i.giphy.com/XR9cbNEfzDrFe.gif" alt="Calavera Hackeando GIF" width="250" align="right">
+  👨‍💻 Estudiante de <strong>Ciberseguridad</strong> y <strong>Administración de Sistemas (ASIR)</strong>.<br>
+  🎯 Apasionado por la defensa de redes (Blue Team) y la seguridad ofensiva (Red Team).<br>
+  🚀 Enfocado en aplicar la disciplina y la resolución de problemas para proteger infraestructuras tecnológicas.<br>
+  🔧 Convirtiendo la teoría en práctica a través de la formación continua y la experiencia en entornos reales.
 </p>
 
-👨‍💻 Estudiante de **Ciberseguridad** y **Administración de Sistemas (ASIR)**.
+<br clear="both"/>
 
-🎯 Apasionado por la defensa de redes (Blue Team) y la seguridad ofensiva (Red Team).
-
-🚀 Enfocado en aplicar la disciplina y la resolución de problemas para proteger infraestructuras tecnológicas.
-
-🔧 Convirtiendo la teoría en práctica a través de la formación continua y la experiencia en entornos reales.
-
+---
 
 ## 💡 Tecnologías y Herramientas
 
@@ -53,14 +52,15 @@
   - Microsoft: **Security, Compliance, and Identity Fundamentals**
 
 ---
-
 ## 💼 Experiencia Reciente
 
-**Desarrollador Web Junior (Prácticas)**
-- Experiencia en un entorno de desarrollo profesional, contribuyendo a la actualización y mantenimiento de aplicaciones web.
-- **Tecnologías clave:** Git, Bootstrap, JavaScript.
+<p>
+  <strong>Desarrollador Web Junior (Prácticas)</strong><br>
+  Experiencia en un entorno de desarrollo profesional, contribuyendo a la actualización y mantenimiento de aplicaciones web.<br><br>
+  <strong>Tecnologías clave:</strong> Git, Bootstrap, JavaScript.
+</p>
 
----
+----
 
 ## 📩 Contacto
 
